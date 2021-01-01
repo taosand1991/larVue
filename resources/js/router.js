@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import VueRouter from 'vue-Router';
+import VueRouter from 'vue-router';
 import Login from './components/Login';
 import ExampleComponent from './components/ExampleComponent'
 
